@@ -24,10 +24,14 @@ def dupCheck_NoDS(string):
         if(sortedString[i] == sortedString[i+1]):
             print("First duplicate detected: " + sortedString[i+1])
 
+            return
+
+    print("All unique characters")
+    return
 
 
 
-string = "abcdd"
+string = "abcd"
 
 print("String: " + string +"\n")
 
