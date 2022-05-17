@@ -13,3 +13,5 @@ My attempts at various programming questions
 ### [4. Write a function to replace all empty-spaces in a string with '%20'.](Arrays_Strings/as4.py)
 
 ### [5. Write a function to replace a string with a frequency string i.e aabc == a2b1c1 , but since this new string is longer return original](Arrays_Strings/as5.py)
+
+### [6. Rotate a 2d array clockwise by 90 degrees]
