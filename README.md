@@ -15,3 +15,5 @@ My attempts at various programming questions
 ### [5. Write a function to replace a string with a frequency string i.e aabc == a2b1c1 , but since this new string is longer return original](Arrays_Strings/as5.py)
 
 ### [6. Rotate a 2d array clockwise by 90 degrees](Arrays_Strings/as6.py)
+
+### [7. Write a function where if a 0 element exists in a matrix it sets the all elements in the corresponding row and column to 0](Arrays_Strings/as7.py)
