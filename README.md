@@ -4,7 +4,7 @@ My attempts at various programming questions
 
 ## Arrays and Strings
 
-### [1. Implement a function to check if a string contains all unique characters. Repeat the question but this time you are not allowed to use additional data structures?](./Arrays_Strings/as1.py)
+### [1. Implement a function to check if a string contains all unique characters. Repeat the question but this time you are not allowed to use additional data structures.](./Arrays_Strings/as1.py)
 
 ### [2. Implement a function which reverses a null-terminated string.](Arrays_Strings/as2.py)
 
@@ -19,3 +19,7 @@ My attempts at various programming questions
 ### [7. Write a function where if a 0 element exists in a matrix it sets the all elements in the corresponding row and column to 0](Arrays_Strings/as7.py)
 
 ### [8. Write a function to determine if a two strings are rotational substrings of each other](Arrays_Strings/as8.py)
+
+## Linked Lists
+
+### [1. Write a function that removes duplicate values from a unsorted linked-list. Redo question where a temporary buffer is not allowed](LinkedLists/ll1.py)
