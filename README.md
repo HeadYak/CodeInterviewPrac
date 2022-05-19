@@ -17,3 +17,5 @@ My attempts at various programming questions
 ### [6. Rotate a 2d array clockwise by 90 degrees](Arrays_Strings/as6.py)
 
 ### [7. Write a function where if a 0 element exists in a matrix it sets the all elements in the corresponding row and column to 0](Arrays_Strings/as7.py)
+
+### [8. Write a function to determine if a two strings are rotational substrings of each other](Arrays_Strings/as8.py)
