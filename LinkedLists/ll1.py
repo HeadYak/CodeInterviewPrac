@@ -12,9 +12,6 @@ class LinkedList:
         self.head = None
 
 
-
-
-
 def llDupDel(linkedlist: LinkedList) -> LinkedList:
 
     temp = linkedlist.head
@@ -43,15 +40,7 @@ def llDupDel(linkedlist: LinkedList) -> LinkedList:
 
                 temp1.next = temp1.next.next
 
-
-
-
-
-
         temp = temp.next
-
-
-
 
     return linkedlist
 
