@@ -189,8 +189,8 @@ llPrint(llisttest1)
 print("Linked-list after merge sorting")
 llisttest1.head = llisttest1.mergeSort(llisttest1.head)
 llPrint(llisttest1)
-
 llDupDel(llisttest1)
+print("After removal of duplicates")
 llPrint(llisttest1)
 # llDupDelNoBuffer(llisttest1)
 
