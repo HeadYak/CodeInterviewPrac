@@ -20,7 +20,9 @@ My attempts at various programming questions
 
 ### [8. Write a function to determine if a two strings are rotational substrings of each other](Arrays_Strings/as8.py)
 
-## [Linked Lists](LinkedLists/LinkedList.py)
+## Linked Lists
+
+### [0. Linked List implementation](LinkedLists/LinkedList.py)
 
 ### [1. Write a function that removes duplicate values from a unsorted linked-list. Redo question where a temporary buffer is not allowed](LinkedLists/ll1.py)
 
