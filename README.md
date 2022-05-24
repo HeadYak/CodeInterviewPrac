@@ -20,10 +20,12 @@ My attempts at various programming questions
 
 ### [8. Write a function to determine if a two strings are rotational substrings of each other](Arrays_Strings/as8.py)
 
-## Linked Lists
+## [Linked Lists](LinkedLists/LinkedList.py)
 
 ### [1. Write a function that removes duplicate values from a unsorted linked-list. Redo question where a temporary buffer is not allowed](LinkedLists/ll1.py)
 
 ### [2. Write a function to find the n-th last element in a singly linked-list](LinkedLists/ll2.py)
 
 ### [3. Write a function to delete a node from the middle of a linked-list given access only to the node to be deleted](LinkedLists/ll3.py)
+
+### [4. Partition a linkedlist around a value x such that all nodes with values less than x are listed before the nodes with value greater than or equal to x](LinkedLists/ll4.py)

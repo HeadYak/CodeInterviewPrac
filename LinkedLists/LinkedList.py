@@ -37,6 +37,18 @@ class LinkedList:
             fast = fast.next.next
 
         return slow
+    def appendLinkedList(self,node):
+        if(self.head== None):
+            self.head = node
+
+            return
+        temp = self.head
+        while(temp.next!=None):
+            temp = temp.next
+
+        temp.next = node
+
+        return
 
 
 
