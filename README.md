@@ -31,3 +31,5 @@ My attempts at various programming questions
 ### [3. Write a function to delete a node from the middle of a linked-list given access only to the node to be deleted](LinkedLists/ll3.py)
 
 ### [4. Partition a linkedlist around a value x such that all nodes with values less than x are listed before the nodes with value greater than or equal to x](LinkedLists/ll4.py)
+
+### [5. Given two numbers represented as a linked-list in reverse order (1's digit is head) write a function to calculate the sum of the two numbers](LinkedLists/ll5.py)
