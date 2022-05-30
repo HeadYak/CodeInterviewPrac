@@ -33,3 +33,5 @@ My attempts at various programming questions
 ### [4. Partition a linkedlist around a value x such that all nodes with values less than x are listed before the nodes with value greater than or equal to x](LinkedLists/ll4.py)
 
 ### [5. Given two numbers represented as a linked-list in reverse order (1's digit is head) write a function to calculate the sum of the two numbers](LinkedLists/ll5.py)
+
+### [6. Given a linkedlist with a loop, write a function to return the start of the loop](LinkedLists/ll6.py))
