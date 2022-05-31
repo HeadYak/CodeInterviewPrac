@@ -35,3 +35,5 @@ My attempts at various programming questions
 ### [5. Given two numbers represented as a linked-list in reverse order (1's digit is head) write a function to calculate the sum of the two numbers](LinkedLists/ll5.py)
 
 ### [6. Given a linkedlist with a loop, write a function to return the start of the loop](LinkedLists/ll6.py))
+
+### [7. Write a function to check if a linkedlist is a palindrome](LinkedLists/ll7.py)
